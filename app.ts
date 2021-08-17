@@ -1,10 +1,10 @@
-import { Curso } from "./agregacao/Curso";
-import { Disciplina } from "./agregacao/Disciplina";
-import { Professor } from "./agregacao/Professor";
-import { Funcionario } from "./heranca/funcionario";
-import { Empresa } from "./heranca/Empresa";
-import { Pf } from "./heranca/Pf";
-import { Pj } from "./heranca/pj";
+import { Curso } from "./agregacao/Curso"
+import { Disciplina } from "./agregacao/Disciplina"
+import { Professor } from "./agregacao/Professor"
+import { Funcionario } from "./heranca/Funcionario"
+import { Empresa } from "./heranca/Empresa"
+import { Pj } from "./heranca/pj"
+import { Pf } from "./heranca/pf"
 
 
 const professor1: Professor  = new Professor("Jesiel");

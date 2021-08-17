@@ -1,6 +1,6 @@
-import { Funcionario } from "../heranca/funcionario"
+import { Funcionario } from "../heranca/Funcionario"
 import { Empresa } from "../heranca/Empresa"
-import { Pf } from "../heranca/Pf"
+import { Pf } from "../heranca/pf"
 import { Pj } from "../heranca/pj"
 
 

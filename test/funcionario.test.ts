@@ -1,6 +1,6 @@
-import { Funcionario } from "../heranca/funcionario"
-import { Pf } from "../heranca/Pf"
+import { Funcionario } from "../heranca/Funcionario"
 import { Pj } from "../heranca/pj"
+import { Pf } from "../heranca/pf"
 
 
 describe('teste de funcionario', () => {

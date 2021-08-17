@@ -1,4 +1,4 @@
-import { Funcionario } from "./funcionario";
+import { Funcionario } from "./Funcionario";
 
 export class Empresa {
   private nome: string;
